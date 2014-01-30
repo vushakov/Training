@@ -1,0 +1,6 @@
+Task3
+Write a program which takes a positive number and 
+returns the array of the digits of the given number.
+Task4
+Write a program called LuckyNumber. It takes any positive number and
+checks if the number is lucky or not.
